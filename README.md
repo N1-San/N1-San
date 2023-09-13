@@ -13,7 +13,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
 [![Top Langs](https://github-readme-stats.vercel.app/api?username=N1-San&theme=algolia&show_icons=true)](https://github.com/N1-San)	
+-->
+
 [![N1-San's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=N1-San&hide=html,scss,stylus,blade,jupyter%20notebook,python,css,shell,batchfile,dockerfile,typescript&theme=algolia&show_icons=true)](https://github.com/N1-San)
 
