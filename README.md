@@ -1,4 +1,5 @@
 ### Hi there, I'm Aniki 👋
+> based in India, working as a laravel developer
 ## I code useless programs
 ![Streak](https://streak-stats.demolab.com?user=N1-San&locale=en&mode=daily&theme=tokyonight)
 
