@@ -5,4 +5,4 @@
 ### My github profile is like my code
 > clean and without anything unnecessary
 ### I painted my profile picture
-> yes i paint sometimes too
+> yes sometimes i paint too
