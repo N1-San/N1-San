@@ -4,4 +4,4 @@ i code
 
 i painted my profile picture
 
-yes sometimes i paint too
+yes, sometimes i paint too
