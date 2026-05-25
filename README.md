@@ -1,7 +1,7 @@
-hi there, i'm aniki
+hi, i'm aniki
 
 i code
 
-i painted my profile picture
+sometimes i paint too
 
-yes, sometimes i paint too
+i painted my profile picture
